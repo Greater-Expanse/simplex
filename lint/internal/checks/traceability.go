@@ -6,8 +6,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/thinkwright/simplex/lint/internal/parser"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint/internal/parser"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 var (

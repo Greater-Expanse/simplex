@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/thinkwright/simplex/lint"
+	"github.com/Greater-Expanse/simplex/lint"
 )
 
 //go:embed all:static

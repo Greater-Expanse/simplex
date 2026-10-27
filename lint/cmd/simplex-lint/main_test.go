@@ -9,8 +9,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/thinkwright/simplex/lint"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 func lintIssueCodes(issues []result.LintError) []string {

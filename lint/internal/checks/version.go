@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/thinkwright/simplex/lint/internal/parser"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint/internal/parser"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 // SupportedSpecVersion is the newest Simplex language version understood by

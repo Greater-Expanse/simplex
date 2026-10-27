@@ -8,8 +8,8 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
-	"github.com/thinkwright/simplex/lint"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 // version is set at build time via ldflags

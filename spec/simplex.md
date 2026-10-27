@@ -866,4 +866,4 @@ version declarations, identifier uniqueness, COVERS reference integrity, and tra
 
 ## References
 
-[1] Y. Liu et al., "SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios," arXiv:2512.18470, December 2025. https://arxiv.org/abs/2512.18470
+[1] M. V. T. Thai, T. Le, D. N. Manh, H. P. Nhat, and N. D. Q. Bui, "SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios," arXiv:2512.18470v1, December 2025. https://arxiv.org/abs/2512.18470

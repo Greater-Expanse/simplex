@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/thinkwright/simplex/lint/internal/parser"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint/internal/parser"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 func checkDeterminism(t *testing.T, source string) *result.LintResult {

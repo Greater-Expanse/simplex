@@ -372,7 +372,7 @@ language.
 The linter can be built from `lint/` or installed with:
 
 ```bash
-go install github.com/thinkwright/simplex/lint/cmd/simplex-lint@latest
+go install github.com/Greater-Expanse/simplex/lint/cmd/simplex-lint@latest
 ```
 
 This repository does not currently document prebuilt release binaries, a package-manager formula,

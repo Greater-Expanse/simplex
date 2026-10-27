@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/thinkwright/simplex/lint/internal/parser"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint/internal/parser"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 func checkTraceability(t *testing.T, source string) *result.LintResult {

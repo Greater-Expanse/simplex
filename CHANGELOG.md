@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Corrected the author list in the SWE-EVO reference and pinned it to arXiv version 1 (December 2025). Later
+  arXiv versions list the same five authors in a different order.
+
 ## [0.6.0] - 2026-07-19
 
 ### Added

@@ -1,6 +1,6 @@
 # Simplex
 
-[![CI](https://github.com/thinkwright/simplex/actions/workflows/ci.yml/badge.svg)](https://github.com/thinkwright/simplex/actions/workflows/ci.yml)
+[![CI](https://github.com/Greater-Expanse/simplex/actions/workflows/ci.yml/badge.svg)](https://github.com/Greater-Expanse/simplex/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Simplex is a semi-structured specification format for describing work assigned to autonomous agents. A Simplex document states required behavior, completion criteria, examples, and failure handling while leaving implementation choices to the agent.
@@ -192,7 +192,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/thinkwright/simplex/lint"
+	"github.com/Greater-Expanse/simplex/lint"
 )
 
 func main() {

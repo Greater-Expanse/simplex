@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/thinkwright/simplex/lint/internal/parser"
-	"github.com/thinkwright/simplex/lint/internal/result"
+	"github.com/Greater-Expanse/simplex/lint/internal/parser"
+	"github.com/Greater-Expanse/simplex/lint/internal/result"
 )
 
 func TestEvolutionChecker_BaselineWithoutEval(t *testing.T) {

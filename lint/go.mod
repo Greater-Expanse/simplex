@@ -1,4 +1,4 @@
-module github.com/thinkwright/simplex/lint
+module github.com/Greater-Expanse/simplex/lint
 
 go 1.22
 
