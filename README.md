@@ -14,7 +14,7 @@ This repository contains:
 - the normative Simplex specification;
 - example specifications;
 - a deterministic Go linter;
-- design notes and proposal documents.
+- linter design notes.
 
 Agent interpretation does not require a formal grammar or compilation step. The linter uses a tolerant parser because tooling needs repeatable structure and diagnostics. The parser is an implementation aid, not a replacement for the normative specification.
 
@@ -30,7 +30,6 @@ The linter implements only the checks documented below. A passing lint result me
 | [QUICKSTART.md](QUICKSTART.md) | Short introduction and first example |
 | [docs/lint-design.md](docs/lint-design.md) | Implemented linter architecture, diagnostics, result model, and explicit boundaries |
 | [CHANGELOG.md](CHANGELOG.md) | Specification release history |
-| [proposals/](proposals/) | Experimental or rejected proposals; not normative |
 
 The public website is maintained in a separate repository. The `web/` directory and `fly.toml` still present in this checkout are legacy copies and are not the authoritative website source. This repository currently has no `gh-pages` branch or GitHub Pages deployment workflow.
 
@@ -236,11 +235,9 @@ The repository CI workflow:
 
 The linter is deterministic and does not require network access or API credentials.
 
-## Versioning and proposals
+## Versioning
 
 Specification releases are recorded in [CHANGELOG.md](CHANGELOG.md). Tooling, parser, test, and documentation maintenance do not by themselves create a new Simplex specification version.
-
-Files under [proposals/](proposals/) are exploratory and are not part of the current specification.
 
 ## License
 

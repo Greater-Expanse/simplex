@@ -34,9 +34,6 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 
-# Planning (internal drafts)
+# Planning and proposal material stays out of this public repository
 planning/
-
-# Proposals (internal demos - bundled but not tracked)
-proposals/simplex-overview.js
-proposals/simplex-overview.jsx
+proposals/
